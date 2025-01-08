@@ -303,6 +303,7 @@ snakemake==7.18.2
 sortedcontainers==2.4.0
 sqlalchemy==2.3.0
 stack-data==0.6.2
+streamlit==1.8.0
 sympy==1.12
 tensorboard==2.14.0
 tensorboard-data-server==0.7.0
